@@ -86,24 +86,14 @@ Resume-Screening-System
 ## 🏠 Home Screen
 
 ![Home Screen](assets/screenshots/home.png)
+<img width="960" height="504" alt="Screenshot 2026-06-25 134453" src="https://github.com/user-attachments/assets/965de451-17a4-4839-93b8-dbe37c07d020" />
 
----
-
-## 📄 Upload Resume
-
-![Upload Resume](assets/screenshots/upload_resume.png)
-
----
-
-## 💼 Job Description
-
-![Job Description](assets/screenshots/job_description.png)
-
----
 
 ## 📊 Screening Result
 
 ![Result](assets/screenshots/result.png)
+<img width="960" height="504" alt="Screenshot 2026-06-25 135036" src="https://github.com/user-attachments/assets/cb5b5b68-d4e5-4bb1-a140-0a5ab81d9efa" />
+<img width="960" height="504" alt="Screenshot 2026-06-25 135047" src="https://github.com/user-attachments/assets/e7b76354-f041-4625-af8d-4040637f19ee" />
 
 ---
 
